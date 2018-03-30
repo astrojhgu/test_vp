@@ -1,6 +1,4 @@
-#A minimum test case for [vpsearch](https://github.com/kornelski/vpsearch)
+# A minimum test case for [vpsearch](https://github.com/kornelski/vpsearch)
 
-##Usage
+## Usage
 cargo build && cargo run
-
-
